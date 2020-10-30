@@ -1,0 +1,35 @@
+{
+  "name": "mini-waterfall-sim",
+  "version": "1.0.0",
+  "description": "A Monte Carlo simulation demonstrating the effect of a \"mini-waterfall\" process on sustainability",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalmonMode/mini-waterfall-simulation.git"
+  },
+  "keywords": [
+    "typescript",
+    "waterfall",
+    "agile",
+    "mini-waterfall",
+    "scrum",
+    "sprint",
+    "testing",
+    "development",
+    "simulation",
+    "monte",
+    "carlo"
+  ],
+  "author": "Chris NeJame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalmonMode/mini-waterfall-simulation/issues"
+  },
+  "homepage": "https://github.com/SalmonMode/mini-waterfall-simulation#readme",
+  "dependencies": {
+    "mini-waterfall-simulation": "^1.1.2"
+  }
+}
